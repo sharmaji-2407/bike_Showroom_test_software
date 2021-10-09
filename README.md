@@ -4,5 +4,4 @@ A very basic java based software logic for a bike showroom.
 - Not a complete software but a test logic for implementation.
 - To run :
 <code>javac filename.java //(This will compile the program)
-</br>
 java filename //(This will run the file)<code>
